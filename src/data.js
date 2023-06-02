@@ -25,6 +25,20 @@ export const homePage = {
 
 export const ProjectsData = [
     {
+        title: 'Positions ',
+        desc: 'contrioes places wep appliction builded with Backend ( nodejs , expressjs , mysql )  Frontend ( reactjs , html5 , css3 , redux/toolkit )',
+        ghLink: 'https://github.com/virgel1995',
+        demo: 'https://react.adhamfathallah.com/',
+        img: 'postions.png'
+    },
+    {
+        title: 'simulating macOS`s GUI',
+        desc: 'website simulating macOS`s GUI: builded with  React + React Redux + UnoCSS + TypeScript + Vite. ',
+        ghLink: 'https://github.com/virgel1995/website-simulating-macOS-s',
+        demo: 'https://simulating-macos.vercel.app/',
+        img: 'macos.png'
+    },
+    {
         title: 'Virus - Docs',
         desc: 'Documntation Website Builded With React , typescript mdx for My npmjs packages',
         ghLink: 'https://github.com/virgel1995/clony',
@@ -45,18 +59,5 @@ export const ProjectsData = [
         demo: 'https://shoper-iota.vercel.app/',
         img: 'shopper.png'
     },
-    {
-        title: 'Positions ',
-        desc: 'contrioes places wep appliction builded with Backend ( nodejs , expressjs , mysql )  Frontend ( reactjs , html5 , css3 , redux/toolkit )',
-        ghLink: 'https://github.com/virgel1995',
-        demo: 'https://react.adhamfathallah.com/',
-        img: 'postions.png'
-    },
-    {
-        title: 'simulating macOS`s GUI',
-        desc: 'website simulating macOS`s GUI: builded with  React + React Redux + UnoCSS + TypeScript + Vite. ',
-        ghLink: 'https://github.com/virgel1995/website-simulating-macOS-s',
-        demo: 'https://simulating-macos.vercel.app/',
-        img: 'macos.png'
-    },
+
 ]
