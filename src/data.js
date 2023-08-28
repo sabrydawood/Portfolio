@@ -25,10 +25,10 @@ export const homePage = {
 
 export const ProjectsData = [
     {
-        title: 'Positions ',
-        desc: 'contrioes places wep appliction builded with Backend ( nodejs , expressjs , mysql )  Frontend ( reactjs , html5 , css3 , redux/toolkit )',
+        title: 'Future Dev',
+        desc: 'conuntries places wep appliction builded with Backend ( nodejs , expressjs , mysql , sequelize, socket.io)  Frontend ( reactjs , chacra-ui , redux/toolkit )',
         ghLink: 'https://github.com/virgel1995',
-        demo: 'https://react.adhamfathallah.com/',
+        demo: 'https://futuretechdev.com',
         img: 'postions.png'
     },
     {
